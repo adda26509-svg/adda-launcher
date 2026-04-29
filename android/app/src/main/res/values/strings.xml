@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AddaLauncher</string>
+    <string name="title_activity_main">AddaLauncher</string>
+    <string name="package_name">com.adda.launcher</string>
+    <string name="custom_url_scheme">com.adda.launcher</string>
+</resources>
